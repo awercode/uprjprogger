@@ -4,6 +4,7 @@
 
 ## Посты с моего сайта
 <!-- BLOG-POST-LIST:START -->
+- [Лучший движок для создания игры](https://uprj.ru/2020/10/25/topengine/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Я использую
