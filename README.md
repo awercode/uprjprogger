@@ -11,7 +11,7 @@
 ![Php](https://img.shields.io/badge/-Php-090909??style=for-the-badge&logo=php)
 
 ## Соцсети
-[![YouTube](https://img.shields.io/badge/-YouTube-090909??style=for-the-badge&logo=YouTube&color=FF0000)](https://youtube.com/antube123)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909??style=for-the-badge&logo=YouTube?color=FF0000)](https://youtube.com/antube123)
 [![Vkontakte](https://img.shields.io/badge/-VK-090909??style=for-the-badge&logo=VK)](https://vk.com/uprjvk)
 ## Статистика
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uprjprogger)](https://github.com/anuraghazra/github-readme-stats)
