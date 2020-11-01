@@ -1,16 +1,14 @@
-### Hi there 👋
+![Header()]
 
-<!--
-**uprjprogger/uprjprogger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Languages and Tools
+![Python](https://img.shields.io/badge/-Python-090909??style=for-the-badge&logo=python)
+![Php](https://img.shields.io/badge/-Php-090909??style=for-the-badge&logo=php)
+
+##Follow Me
+![YouTube](https://img.shields.io/badge/-YouTube-090909??style=for-the-badge&logo=YouTube&logoColor=FF0000)(https://youtube.com/antube123)
