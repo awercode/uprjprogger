@@ -1,4 +1,4 @@
-![Header](https://uprj.ru/logo.png)
+![Header](https://github.uprj.ru/logo.png)
 
 # Привет, это мой профиль в GitHub
 
