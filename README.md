@@ -4,6 +4,7 @@
 
 ## Посты с моего сайта
 <!-- BLOG-POST-LIST:START -->
+- [Python – как появился, откуда название и кто его создатель](https://uprj.ru/2020/11/16/pythonhistory/)
 - [Лучший движок для создания игры](https://uprj.ru/2020/10/25/topengine/)
 <!-- BLOG-POST-LIST:END -->
 
